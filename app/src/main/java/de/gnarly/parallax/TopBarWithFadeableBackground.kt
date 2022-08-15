@@ -1,4 +1,4 @@
-package de.gnarly.playground
+package de.gnarly.parallax
 
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth

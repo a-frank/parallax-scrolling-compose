@@ -1,4 +1,4 @@
-package de.gnarly.playground.ui.theme
+package de.gnarly.parallax.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
